@@ -1,0 +1,6 @@
+@media only screen and (max-width: 550px) {
+	canvas {
+		width: 250px;
+		height: 250px;
+	}
+}
