@@ -1,6 +1,6 @@
 # Estimating PI with Darts
 
-Visit Project: https://zsrobinson.github.io/estimatingPi
+Visit Project: https://pi.zsrobinson.com ([Alternate Link](https://zsrobinson.github.io/pi))
 
 This a simple project to estimate the value of PI using a [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) Simulation. Simply press "Simulate" to estimate the value of PI, and the simulation will display on the side. Only so many points will actually be displayed on the side, as you can't see all the points for a very high point count. For more accurate estimations, try increasing the point count. However, this will take longer to simulate.
 
